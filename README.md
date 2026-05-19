@@ -6,7 +6,7 @@ Kumpulan dataset publik Indonesia. Seluruh data menggunakan lisensi [CC0 1.0 Uni
 
 ### Kode Pos
 
-- **[Kode Pos](dataset/kode_pos/kode_pos.csv)**
+- **[Kode Pos](dataset/kode_pos.csv)**
 
 ### Wilayah
 
@@ -16,3 +16,7 @@ Data wilayah Indonesia
 - **[Kota/Kabupaten](dataset/wilayah/kota_kabupaten.csv)**
 - **[Kecamatan](dataset/wilayah/kecamatan.csv)**
 - **[Kelurahan/Desa](dataset/wilayah/kelurahan_desa.csv)**
+
+### Bank
+
+- **[Bank](dataset/bank.csv)**
