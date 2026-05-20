@@ -1,0 +1,39 @@
+provinsi_id,nama,url
+11,Aceh,https://acehprov.go.id
+12,Sumatera Utara,https://sumutprov.go.id
+13,Sumatera Barat,https://sumbarprov.go.id
+14,Riau,https://www.riau.go.id
+15,Jambi,https://jambiprov.go.id
+16,Sumatera Selatan,https://sumselprov.go.id
+17,Bengkulu,https://bengkuluprov.go.id
+18,Lampung,https://lampungprov.go.id
+19,Kepulauan Bangka Belitung,https://babelprov.go.id
+21,Kepulauan Riau,https://kepriprov.go.id
+31,Daerah Khusus Ibukota Jakarta,https://jakarta.go.id
+32,Jawa Barat,https://www.jabarprov.go.id
+33,Jawa Tengah,https://jatengprov.go.id
+34,Daerah Istimewa Yogyakarta,https://jogjaprov.go.id
+35,Jawa Timur,https://jatimprov.go.id
+36,Banten,https://bantenprov.go.id
+51,Bali,https://baliprov.go.id
+52,Nusa Tenggara Barat,https://www.ntbprov.go.id
+53,Nusa Tenggara Timur,https://nttprov.go.id
+61,Kalimantan Barat,https://kalbarprov.go.id
+62,Kalimantan Tengah,https://www.kalteng.go.id
+63,Kalimantan Selatan,https://kalselprov.go.id
+64,Kalimantan Timur,https://kaltimprov.go.id
+65,Kalimantan Utara,https://kaltaraprov.go.id
+71,Sulawesi Utara,https://sulutprov.go.id
+72,Sulawesi Tengah,https://sultengprov.go.id
+73,Sulawesi Selatan,https://sulselprov.go.id
+74,Sulawesi Tenggara,https://sultraprov.go.id
+75,Gorontalo,https://gorontaloprov.go.id
+76,Sulawesi Barat,https://sulbarprov.go.id
+81,Maluku,https://malukuprov.go.id
+82,Maluku Utara,https://malutprov.go.id
+91,Papua,https://papua.go.id
+92,Papua Barat,https://papuabaratprov.go.id
+93,Papua Selatan,https://papuaselatan.go.id
+94,Papua Tengah,https://papuatengahprov.go.id
+95,Papua Pegunungan,https://papuapegunungan.go.id
+96,Papua Barat Daya,https://papuabaratdayaprov.go.id
