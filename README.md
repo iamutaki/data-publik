@@ -6,7 +6,7 @@ Kumpulan dataset publik Indonesia. Seluruh data menggunakan lisensi [CC0 1.0 Uni
 
 ### Kode Pos
 
-- **[Kode Pos](dataset/kode_pos.csv)** - 83.761 data
+- **[Kode Pos](dataset/kode_pos.csv)**
 
 Data kode pos seluruh Indonesia yang mencakup wilayah dari tingkat provinsi hingga kelurahan/desa.
 
@@ -14,13 +14,14 @@ Data kode pos seluruh Indonesia yang mencakup wilayah dari tingkat provinsi hing
 
 Data wilayah Indonesia berdasarkan hierarki Kemendagri.
 
-- **[Provinsi](dataset/wilayah/provinsi.csv)** - 38 provinsi
-- **[Kota/Kabupaten](dataset/wilayah/kota_kabupaten.csv)** - 514 kota/kabupaten
-- **[Kecamatan](dataset/wilayah/kecamatan.csv)** - 7.277 kecamatan
-- **[Kelurahan/Desa](dataset/wilayah/kelurahan_desa.csv)** - 82.978 kelurahan/desa
+- **[Provinsi](dataset/wilayah/provinsi.csv)**
+- **[Kota/Kabupaten](dataset/wilayah/kota_kabupaten.csv)**
+- **[Kecamatan](dataset/wilayah/kecamatan.csv)**
+- **[Kelurahan/Desa](dataset/wilayah/kelurahan_desa.csv)**
 
 ### Bank
 
-- **[Bank](dataset/bank.csv)** - 141 data
-
+- **[Bank](dataset/bank/bank.csv)**
 Daftar kode bank Indonesia yang digunakan pada sistem perbankan (transfer, payment gateway, dll).
+
+Logo bank tersedia di [dataset/bank/logo/](dataset/bank/logo/) dalam format SVG/PNG dan dapat diakses langsung melalui kolom `logo` pada CSV.
