@@ -14,14 +14,16 @@ Data kode pos seluruh Indonesia yang mencakup wilayah dari tingkat provinsi hing
 
 Data wilayah Indonesia berdasarkan hierarki Kemendagri.
 
-- **[Provinsi](dataset/wilayah/provinsi.csv)**
-- **[Kota/Kabupaten](dataset/wilayah/kota_kabupaten.csv)**
+- **[Provinsi](dataset/wilayah/provinsi.csv)** - Logo: **[Provinsi Logo](dataset/wilayah/provinsi_logo.csv)**
+- **[Kota/Kabupaten](dataset/wilayah/kota_kabupaten.csv)** - Logo: **[Kota/Kabupaten Logo](dataset/wilayah/kota_kabupaten_logo.csv)**
 - **[Kecamatan](dataset/wilayah/kecamatan.csv)**
 - **[Kelurahan/Desa](dataset/wilayah/kelurahan_desa.csv)**
+
+Logo bersumber dari [Wikimedia Commons](https://commons.wikimedia.org/) dan berupa direct asset URL.
 
 ### Bank
 
 - **[Bank](dataset/bank/bank.csv)**
 Daftar kode bank Indonesia yang digunakan pada sistem perbankan (transfer, payment gateway, dll).
 
-Logo bank tersedia di [dataset/bank/logo/](dataset/bank/logo/) dalam format SVG/PNG dan dapat diakses langsung melalui kolom `logo` pada CSV.
+Logo bank tersedia di [dataset/bank/logo/](dataset/bank/logo/) dalam format SVG/BITMAP Image dan dapat diakses langsung melalui kolom `logo` pada CSV.
