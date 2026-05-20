@@ -19,8 +19,6 @@ Data wilayah Indonesia berdasarkan hierarki Kemendagri.
 - **[Kecamatan](dataset/wilayah/kecamatan.csv)**
 - **[Kelurahan/Desa](dataset/wilayah/kelurahan_desa.csv)**
 
-Logo bersumber dari [Wikimedia Commons](https://commons.wikimedia.org/) dan berupa direct asset URL.
-
 ### Bank
 
 - **[Bank](dataset/bank/bank.csv)**
