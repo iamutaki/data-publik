@@ -24,9 +24,3 @@ Data wilayah Indonesia berdasarkan hierarki Kemendagri.
 - **[Bank](dataset/bank.csv)** - 141 data
 
 Daftar kode bank Indonesia yang digunakan pada sistem perbankan (transfer, payment gateway, dll).
-
-| Kolom | Tipe | Deskripsi |
-| --- | --- | --- |
-| `kode` | string | Kode bank (3 digit, dikeluarkan oleh Bank Indonesia) |
-| `nama` | string | Nama bank/penyedia layanan keuangan |
-| `url` | string | Website resmi |
