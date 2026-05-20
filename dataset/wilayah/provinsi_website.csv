@@ -7,16 +7,16 @@ provinsi_id,nama,url
 16,Sumatera Selatan,https://sumselprov.go.id
 17,Bengkulu,https://bengkuluprov.go.id
 18,Lampung,https://lampungprov.go.id
-19,Kepulauan Bangka Belitung,https://babelprov.go.id
+19,Kepulauan Bangka Belitung,
 21,Kepulauan Riau,https://kepriprov.go.id
 31,Daerah Khusus Ibukota Jakarta,https://jakarta.go.id
 32,Jawa Barat,https://www.jabarprov.go.id
 33,Jawa Tengah,https://jatengprov.go.id
 34,Daerah Istimewa Yogyakarta,https://jogjaprov.go.id
-35,Jawa Timur,https://jatimprov.go.id
+35,Jawa Timur,
 36,Banten,https://bantenprov.go.id
 51,Bali,https://baliprov.go.id
-52,Nusa Tenggara Barat,https://www.ntbprov.go.id
+52,Nusa Tenggara Barat,
 53,Nusa Tenggara Timur,https://nttprov.go.id
 61,Kalimantan Barat,https://kalbarprov.go.id
 62,Kalimantan Tengah,https://www.kalteng.go.id
