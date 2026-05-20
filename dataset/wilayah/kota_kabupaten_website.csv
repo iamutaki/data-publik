@@ -108,13 +108,13 @@ kota_kabupaten_id,nama,url
 1609,Kabupaten Ogan Komering Ulu Selatan,https://okuselatankab.go.id/
 1610,Kabupaten Ogan Ilir,https://oganilirkab.go.id
 1611,Kabupaten Empat Lawang,https://empatlawangkab.go.id
-1612,Kabupaten Penukal Abab Lematang Ilir,
-1613,Kabupaten Musi Rawas Utara,
+1612,Kabupaten Penukal Abab Lematang Ilir,https://palikab.go.id
+1613,Kabupaten Musi Rawas Utara,https://musirawasutarakab.go.id
 1671,Kota Palembang,https://palembang.go.id
 1672,Kota Pagar Alam,https://pagaralamkota.go.id
 1673,Kota Lubuk Linggau,https://lubuklinggaukota.go.id
 1674,Kota Prabumulih,https://kotaprabumulih.go.id
-1701,Kabupaten Bengkulu Selatan,
+1701,Kabupaten Bengkulu Selatan,https://bengkuluselatankab.go.id
 1702,Kabupaten Rejang Lebong,https://rejanglebongkab.go.id
 1703,Kabupaten Bengkulu Utara,https://bengkuluutarakab.go.id
 1704,Kabupaten Kaur,https://kaurkab.go.id/
@@ -276,21 +276,21 @@ kota_kabupaten_id,nama,url
 5102,Kabupaten Tabanan,https://tabanankab.go.id
 5103,Kabupaten Badung,https://badungkab.go.id
 5104,Kabupaten Gianyar,https://gianyarkab.go.id
-5105,Kabupaten Klungkung,
+5105,Kabupaten Klungkung,https://klungkungkab.go.id
 5106,Kabupaten Bangli,https://banglikab.go.id
 5107,Kabupaten Karangasem,http://karangasemkab.go.id
 5108,Kabupaten Buleleng,https://bulelengkab.go.id
 5171,Kota Denpasar,https://denpasarkota.go.id
 5201,Kabupaten Lombok Barat,https://lombokbaratkab.go.id
-5202,Kabupaten Lombok Tengah,
+5202,Kabupaten Lombok Tengah,https://lomboktengahkab.go.id
 5203,Kabupaten Lombok Timur,https://portal.lomboktimurkab.go.id
-5204,Kabupaten Sumbawa,
+5204,Kabupaten Sumbawa,https://sumbawakab.go.id
 5205,Kabupaten Dompu,https://dompukab.go.id
 5206,Kabupaten Bima,https://bimakab.go.id
 5207,Kabupaten Sumbawa Barat,https://sumbawabaratkab.go.id
 5208,Kabupaten Lombok Utara,https://lombokutarakab.go.id
 5271,Kota Mataram,https://mataramkota.go.id
-5272,Kota Bima,https://mail.klungkungkab.go.id/
+5272,Kota Bima,https://bimakota.go.id
 5301,Kabupaten Kupang,https://kupangkab.go.id
 5302,Kabupaten Timor Tengah Selatan,https://ttskab.go.id/
 5303,Kabupaten Timor Tengah Utara,https://ttukab.go.id/
@@ -371,15 +371,15 @@ kota_kabupaten_id,nama,url
 6571,Kota Tarakan,https://tarakankota.go.id
 7101,Kabupaten Bolaang Mongondow,https://bolmongkab.go.id/
 7102,Kabupaten Minahasa,https://minahasa.go.id
-7103,Kabupaten Kepulauan Sangihe,
-7104,Kabupaten Kepulauan Talaud,
-7105,Kabupaten Minahasa Selatan,
-7106,Kabupaten Minahasa Utara,
-7107,Kabupaten Minahasa Tenggara,
-7108,Kabupaten Bolaang Mongondow Utara,
-7109,Kabupaten Kep. Siau Tagulandang Biaro,
-7110,Kabupaten Bolaang Mongondow Timur,
-7111,Kabupaten Bolaang Mongondow Selatan,
+7103,Kabupaten Kepulauan Sangihe,https://sangihekab.go.id
+7104,Kabupaten Kepulauan Talaud,https://talaudkab.go.id
+7105,Kabupaten Minahasa Selatan,https://minselkab.go.id
+7106,Kabupaten Minahasa Utara,https://minutkab.go.id
+7107,Kabupaten Minahasa Tenggara,https://mitratimurkab.go.id
+7108,Kabupaten Bolaang Mongondow Utara,https://bolmutkab.go.id
+7109,Kabupaten Kep. Siau Tagulandang Biaro,https://sitarokab.go.id
+7110,Kabupaten Bolaang Mongondow Timur,https://boltimekab.go.id
+7111,Kabupaten Bolaang Mongondow Selatan,https://bolselkab.go.id
 7171,Kota Manado,https://manadokota.go.id
 7172,Kota Bitung,https://bitungkota.go.id
 7173,Kota Tomohon,https://tomohon.go.id
@@ -390,7 +390,7 @@ kota_kabupaten_id,nama,url
 7204,Kabupaten Toli-Toli,https://tolitolikab.go.id
 7205,Kabupaten Buol,https://buolkab.go.id
 7206,Kabupaten Morowali,https://morowalikab.go.id
-7207,Kabupaten Banggai Kepulauan,
+7207,Kabupaten Banggai Kepulauan,https://bangkaikab.go.id
 7208,Kabupaten Parigi Moutong,https://parigimoutongkab.go.id
 7209,Kabupaten Tojo Una Una,https://tojounauna.go.id
 7210,Kabupaten Sigi,https://sigikab.go.id
@@ -399,81 +399,81 @@ kota_kabupaten_id,nama,url
 7271,Kota Palu,https://palukota.go.id
 7301,Kabupaten Kepulauan Selayar,https://kepulauanselayarkab.go.id
 7302,Kabupaten Bulukumba,https://bulukumbakab.go.id
-7303,Kabupaten Bantaeng,
+7303,Kabupaten Bantaeng,https://bantaengkab.go.id
 7304,Kabupaten Jeneponto,https://jenepontokab.go.id
 7305,Kabupaten Takalar,https://takalarkab.go.id
 7306,Kabupaten Gowa,https://gowakab.go.id
 7307,Kabupaten Sinjai,https://sinjaikab.go.id/web
 7308,Kabupaten Bone,https://bone.go.id
-7309,Kabupaten Maros,
-7310,Kabupaten Pangkajene dan Kepulauan,
+7309,Kabupaten Maros,https://maroskab.go.id
+7310,Kabupaten Pangkajene dan Kepulauan,https://pangkepkab.go.id
 7311,Kabupaten Barru,https://barrukab.go.id
 7312,Kabupaten Soppeng,https://soppeng.go.id
-7313,Kabupaten Wajo,
-7314,Kabupaten Sidenreng Rappang,
+7313,Kabupaten Wajo,https://wajokab.go.id
+7314,Kabupaten Sidenreng Rappang,https://sidrapkab.go.id
 7315,Kabupaten Pinrang,https://pinrangkab.go.id
 7316,Kabupaten Enrekang,https://enrekangkab.go.id
 7317,Kabupaten Luwu,https://luwukab.go.id
-7318,Kabupaten Tana Toraja,
+7318,Kabupaten Tana Toraja,https://tanatorajakab.go.id
 7322,Kabupaten Luwu Utara,https://luwuutarakab.go.id
 7324,Kabupaten Luwu Timur,https://luwutimurkab.go.id
 7326,Kabupaten Toraja Utara,https://torajautarakab.go.id
-7371,Kota Makassar,
+7371,Kota Makassar,https://makassarkota.go.id
 7372,Kota Parepare,https://pareparekota.go.id
 7373,Kota Palopo,https://palopokota.go.id
 7401,Kabupaten Kolaka,https://kolakakab.go.id
 7402,Kabupaten Konawe,https://konawekab.go.id
-7403,Kabupaten Muna,
+7403,Kabupaten Muna,https://munakab.go.id
 7404,Kabupaten Buton,https://butonkab.go.id
 7405,Kabupaten Konawe Selatan,http://konaweselatankab.go.id
 7406,Kabupaten Bombana,https://bombanakab.go.id
 7407,Kabupaten Wakatobi,https://wakatobikab.go.id
-7408,Kabupaten Kolaka Utara,
+7408,Kabupaten Kolaka Utara,https://kolakautarakab.go.id
 7409,Kabupaten Konawe Utara,https://konaweutarakab.go.id
 7410,Kabupaten Buton Utara,https://butonutarakab.go.id
 7411,Kabupaten Kolaka Timur,https://kolakatimurkab.go.id
-7412,Kabupaten Konawe Kepulauan,
+7412,Kabupaten Konawe Kepulauan,https://konawekepulauankab.go.id
 7413,Kabupaten Muna Barat,https://munabaratkab.go.id
-7414,Kabupaten Buton Tengah,
-7415,Kabupaten Buton Selatan,
+7414,Kabupaten Buton Tengah,https://butengkab.go.id
+7415,Kabupaten Buton Selatan,https://butonselatankab.go.id
 7471,Kota Kendari,https://kendarikota.go.id
 7472,Kota Bau Bau,https://baubaukota.go.id
 7501,Kabupaten Gorontalo,https://gorontalokab.go.id
 7502,Kabupaten Boalemo,https://boalemokab.go.id
-7503,Kabupaten Bone Bolango,
+7503,Kabupaten Bone Bolango,https://bonebolangokab.go.id
 7504,Kabupaten Pohuwato,https://pohuwatokab.go.id
-7505,Kabupaten Gorontalo Utara,
+7505,Kabupaten Gorontalo Utara,https://gorontaloutarakab.go.id
 7571,Kota Gorontalo,http://gorontalokota.go.id
 7601,Kabupaten Pasangkayu,https://pasangkayukab.go.id
 7602,Kabupaten Mamuju,http://mamujukab.go.id
 7603,Kabupaten Mamasa,https://mamasakab.go.id
-7604,Kabupaten Polewali Mandar,
+7604,Kabupaten Polewali Mandar,https://polewalimandarkab.go.id
 7605,Kabupaten Majene,https://majenekab.go.id
 7606,Kabupaten Mamuju Tengah,https://mamujutengahkab.go.id
-8101,Kabupaten Maluku Tengah,
+8101,Kabupaten Maluku Tengah,https://maltengkab.go.id
 8102,Kabupaten Maluku Tenggara,https://malukutenggarakab.go.id
-8103,Kabupaten Kepulauan Tanimbar,
+8103,Kabupaten Kepulauan Tanimbar,https://tanimbarkab.go.id
 8104,Kabupaten Buru,https://burukab.go.id
 8105,Kabupaten Seram Bagian Timur,https://serambagiantimurkab.go.id
-8106,Kabupaten Seram Bagian Barat,
+8106,Kabupaten Seram Bagian Barat,https://serambagianbaratkab.go.id
 8107,Kabupaten Kepulauan Aru,https://kepulauanarukab.go.id
 8108,Kabupaten Maluku Barat Daya,https://malukubaratdayakab.go.id
-8109,Kabupaten Buru Selatan,
-8171,Kota Ambon,
-8172,Kota Tual,
-8201,Kabupaten Halmahera Barat,
-8202,Kabupaten Halmahera Tengah,
+8109,Kabupaten Buru Selatan,https://buruselatankab.go.id
+8171,Kota Ambon,https://ambon.go.id
+8172,Kota Tual,https://kotatualkota.go.id
+8201,Kabupaten Halmahera Barat,https://halmaherabaratkab.go.id
+8202,Kabupaten Halmahera Tengah,https://haltengkab.go.id
 8203,Kabupaten Halmahera Utara,https://halmaherautarakab.go.id
 8204,Kabupaten Halmahera Selatan,https://halmaheraselatankab.go.id
 8205,Kabupaten Kepulauan Sula,https://kepulauansulakab.go.id
-8206,Kabupaten Halmahera Timur,
+8206,Kabupaten Halmahera Timur,https://haltimekab.go.id
 8207,Kabupaten Pulau Morotai,https://pulaumorotaikab.go.id
-8208,Kabupaten Pulau Taliabu,
+8208,Kabupaten Pulau Taliabu,https://taliabukab.go.id
 8271,Kota Ternate,https://ternatekota.go.id
-8272,Kota Tidore Kepulauan,
+8272,Kota Tidore Kepulauan,https://tidorekota.go.id
 9103,Kabupaten Jayapura,https://jayapurakab.go.id
-9105,Kabupaten Kepulauan Yapen,
-9106,Kabupaten Biak Numfor,
+9105,Kabupaten Kepulauan Yapen,https://yapenkab.go.id
+9106,Kabupaten Biak Numfor,https://biaknumforkab.go.id
 9110,Kabupaten Sarmi,https://sarmikab.go.id/main
 9111,Kabupaten Keerom,https://keeromkab.go.id/v6
 9115,Kabupaten Waropen,https://waropenkab.go.id
@@ -483,10 +483,10 @@ kota_kabupaten_id,nama,url
 9202,Kabupaten Manokwari,https://manokwarikab.go.id
 9203,Kabupaten Fak Fak,https://fakfakkab.go.id
 9206,Kabupaten Teluk Bintuni,http://portal.telukbintunikab.go.id
-9207,Kabupaten Teluk Wondama,
+9207,Kabupaten Teluk Wondama,https://wondamakab.go.id
 9208,Kabupaten Kaimana,https://kaimanakab.go.id
-9211,Kabupaten Manokwari Selatan,
-9212,Kabupaten Pegunungan Arfak,
+9211,Kabupaten Manokwari Selatan,https://manselkab.go.id
+9212,Kabupaten Pegunungan Arfak,https://pegununganarfakkab.go.id
 9301,Kabupaten Merauke,https://merauke.go.id
 9302,Kabupaten Boven Digoel,https://bovendigoelkab.go.id
 9303,Kabupaten Mappi,https://mappikab.go.id
@@ -497,15 +497,15 @@ kota_kabupaten_id,nama,url
 9404,Kabupaten Mimika,https://mimikakab.go.id
 9405,Kabupaten Puncak,https://puncakkab.go.id
 9406,Kabupaten Dogiyai,https://dogiyaikab.go.id
-9407,Kabupaten Intan Jaya,
+9407,Kabupaten Intan Jaya,https://intanjayakab.go.id
 9408,Kabupaten Deiyai,https://new.deiyaikab.go.id
 9501,Kabupaten Jayawijaya,https://jayawijayakab.go.id
-9502,Kabupaten Pegunungan Bintang,
+9502,Kabupaten Pegunungan Bintang,https://pegununganbintangkab.go.id
 9503,Kabupaten Yahukimo,https://yahukimokab.go.id
 9504,Kabupaten Tolikara,https://tolikarakab.go.id
 9505,Kabupaten Mamberamo Tengah,https://mamberamotengahkab.go.id
-9506,Kabupaten Yalimo,
-9507,Kabupaten Lanny Jaya,
+9506,Kabupaten Yalimo,https://yalimokab.go.id
+9507,Kabupaten Lanny Jaya,https://lannyjayakab.go.id
 9508,Kabupaten Nduga,https://ndugakab.go.id
 9601,Kabupaten Sorong,https://sorongkab.go.id
 9602,Kabupaten Sorong Selatan,https://sorongselatankab.go.id/home
